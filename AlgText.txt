@@ -1,0 +1,18 @@
+            
+            ALGORITHM PROCCESS
+Algorithm is the step by step approach of solving a problem OR writing a code.
+
+...speed, space, 
+
+BIG O NOTATION IS USED TO MEASURE THE EFFICIENCY OF OUR CODE
+
+Object is an ordered data structure 
+Array is an unordered data structure
+
+
+Big o notation is the formula we will be using for our Algorithm
+
+Time Complexity and space
+
+
+anytime there is iteration u can use 0(n)
